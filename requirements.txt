@@ -9,4 +9,5 @@ ipykernel==6.25.2 # Jupyter kernel for running notebooks
 langchain-google-genai
 markdown==3.4.4 # For rendering markdown in responses
 BeautifulSoup4==4.12.2 # For parsing HTML content
+uvicorn
 #-e .
